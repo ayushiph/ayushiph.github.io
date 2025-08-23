@@ -1,11 +1,11 @@
 {
-    "name": "earthybites",
-    "short_name": "earthybites",
+    "name": "Earthy Bites - Premium Handcrafted Cookies",
+    "short_name": "Earthy Bites",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Premium handcrafted cookies made from pure ingredients in Bengaluru. Order authentic, delicious cookies crafted with love.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

@@ -40938,7 +40938,7 @@ n=A.cp(p,A.kO(B.FQ,B.de,p,48),B.p,p,p,new A.bB(B.my,p,p,n,p,p,B.K),p,p,B.mV,p)
 s=this.b
 r=A.L(s).p2.w
 q=t.p
-return A.atz(p,A.bU(A.b([n,B.av,A.aB("Redirecting to WhatsApp",p,p,p,r==null?p:r.j1(B.de,B.a7),B.by,p),B.cX,A.aB("Please don't press the back button. You will be redirected to WhatsApp with a pre-filled order summary. Just press 'Send' in WhatsApp to complete your order!",p,p,p,A.L(s).p2.z,B.by,p),B.cY,A.dc(A.b([A.h6(A.auU(!1,B.hR,p,p,B.aF,p,p,p,p,new A.anb(a),p,p),1),B.yS,A.h6(A.kw(!1,B.UQ,p,p,B.aF,p,p,p,p,new A.anc(this.a,a,s),p,A.oU(p,p,B.de,p,p,p,p,p,p,B.j,p,p,B.jj,p,p,p,p,p,p)),1)],q),B.t,B.y,B.w)],q),B.t,B.y,B.aN),B.jo,new A.cU(o,B.l),p)},
+return A.atz(p,A.bU(A.b([n,B.av,A.aB("Redirecting to WhatsApp",p,p,p,r==null?p:r.j1(B.de,B.a7),B.by,p),B.cX,A.aB("Your order will open in WhatsApp. Simply hit 'Send' to complete!",p,p,p,A.L(s).p2.z,B.by,p),B.cY,A.dc(A.b([A.h6(A.auU(!1,B.hR,p,p,B.aF,p,p,p,p,new A.anb(a),p,p),1),B.yS,A.h6(A.kw(!1,B.UQ,p,p,B.aF,p,p,p,p,new A.anc(this.a,a,s),p,A.oU(p,p,B.de,p,p,p,p,p,p,B.j,p,p,B.jj,p,p,p,p,p,p)),1)],q),B.t,B.y,B.w)],q),B.t,B.y,B.aN),B.jo,new A.cU(o,B.l),p)},
 $S:92}
 A.anb.prototype={
 $0(){return A.fb(this.a,!1).dg()},

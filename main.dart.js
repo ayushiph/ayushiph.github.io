@@ -40993,7 +40993,7 @@ case 5:return A.B(null,r)
 case 1:return A.A(p,r)}})
 return A.C($async$n4,r)},
 H(a){var s,r,q,p,o,n,m=null,l=A.L(a),k=A.be(a,m,t.w).w.a.a>768,j=l.ax.b,i=A.b([j,A.R(204,j.gm()>>>16&255,j.gm()>>>8&255,j.gm()&255)],t.t_),h=k?32:16,g=k?64:32,f=A.R(B.c.ae(229.5),255,255,255),e=A.du(16),d=A.b([new A.b5(0,B.G,A.R(B.c.ae(25.5),0,0,0),B.eE,8)],t.V),c=k?400:300,b=t.p
-d=A.cp(m,A.bU(A.b([A.L3("assets/images/logo.png",m,B.AJ,k?240:180,c)],b),B.t,B.y,B.w),B.p,m,m,new A.bB(f,m,m,e,d,m,B.K),m,m,B.jo,m)
+d=A.cp(m,A.bU(A.b([A.L3("assets/images/logo.webp",m,B.AJ,k?240:180,c)],b),B.t,B.y,B.w),B.p,m,m,new A.bB(f,m,m,e,d,m,B.K),m,m,B.jo,m)
 e=A.R(242,255,255,255)
 f=A.du(12)
 c=l.p2
@@ -41123,7 +41123,7 @@ return new A.A1(new A.anZ(this,r,r?150:200,s),null)},
 gzL(){return this.e}}
 A.anZ.prototype={
 $2(a4,a5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d=null,c=e.b,b=c?4:8,a=c?12:16,a0=A.du(8),a1=e.a,a2=a1.a.c,a3=a2.d
-a3=a3.length!==0?A.Jm(A.du(8),A.L3(a3,new A.anR(),B.fd,d,d),B.bj):A.Jm(A.du(8),A.L3("assets/images/products/placeholder.png",new A.anS(),B.fd,d,d),B.bj)
+a3=a3.length!==0?A.Jm(A.du(8),A.L3(a3,new A.anR(),B.fd,d,d),B.bj):A.Jm(A.du(8),A.L3("assets/images/products/placeholder.webp",new A.anS(),B.fd,d,d),B.bj)
 a0=A.cp(d,a3,B.p,d,d,new A.bB(B.e9,d,d,a0,d,d,B.K),e.c,d,d,1/0)
 a3=A.cu(d,c?8:12,d)
 s=e.d
@@ -41197,7 +41197,7 @@ p=A.oU(d,d,s.b,d,d,d,d,d,d,s.c,d,d,new A.ah(0,p,0,p),d,d,d,d,d,d)
 B.b.O(q,A.b([o,n,m,l,a0,r,j,a3,A.cu(A.kw(!1,A.aB("Add to Cart",d,d,d,A.ez(d,d,d,d,d,d,d,d,d,d,d,c?14:16,d,d,B.L,d,d,!0,d,d,d,d,d,d,d,d),d,d),d,d,B.aF,d,d,d,d,a1,d,p),d,1/0)],a2))}else B.b.O(q,A.b([B.UH],a2))}return A.axM(new A.bD(new A.ah(a,a,a,a),A.bU(q,B.ap,B.y,B.aN),d),4,new A.ah(b,b,b,b))},
 $S:440}
 A.anR.prototype={
-$3(a,b,c){return A.Jm(A.du(8),A.L3("assets/images/products/placeholder.png",new A.anQ(),B.fd,null,null),B.bj)},
+$3(a,b,c){return A.Jm(A.du(8),A.L3("assets/images/products/placeholder.webp",new A.anQ(),B.fd,null,null),B.bj)},
 $S:450}
 A.anQ.prototype={
 $3(a,b,c){var s=null
@@ -90926,19 +90926,19 @@ B.hk=new A.hn(7,"dialog")
 B.kl=new A.hn(8,"platformView")
 B.km=new A.hn(9,"generic")
 B.J1=A.b(s(["Butter","Oats flour","Whole Oats","Aata","Jaggery","Salt","Vanilla extract","Almonds","Cashew","Walnut","Assorted spices"]),t.s)
-B.N2=new A.eO(6,"Jaggery Oats cookies","Fiber-rich oats combined with natural jaggery and premium nuts, creating a wholesome energy boost that satisfies your sweet cravings naturally.","assets/images/products/jaggery_oats_cookies.png",B.J1)
-B.Ik=A.b(s(["Butter","Aata","Jaggery","Salt","Coco powder","Coffee powder","Vanilla extract","Choco chips"]),t.s)
-B.N3=new A.eO(4,"Chocochip cookies","Rich, decadent chocolate heaven with real choco chips and a hint of coffee, crafted for true chocolate lovers who deserve the best.","assets/images/products/chocochip_cookies.png",B.Ik)
-B.Hr=A.b(s(["Butter","Aata","Jeera (Cumin)","Jaggery","Salt"]),t.s)
-B.N4=new A.eO(1,"Jeera cookies (sweet & salty)","A perfect balance of earthy cumin and sweet jaggery, creating a unique fusion that tantalizes your taste buds with every bite.","assets/images/products/jeera_cookies.png",B.Hr)
+B.N2=new A.eO(6,"Jaggery Oats cookies","Fiber-rich oats combined with natural jaggery and premium nuts, creating a wholesome energy boost that satisfies your sweet cravings naturally.","assets/images/products/jaggery_oats_cookies.webp",B.J1)
 B.Iu=A.b(s(["Butter","Aata","Jeera","Eliachi (Cardamom)","Salt"]),t.s)
-B.N5=new A.eO(2,"Eliachi cookies","Fragrant cardamom-infused delights that melt in your mouth, bringing the warmth of traditional Indian spices to your cookie jar.","assets/images/products/eliachi_cookies.png",B.Iu)
-B.IU=A.b(s(["Butter","Oats flour","Whole Oats","Honey","Salt","Vanilla extract","Almonds","Cashew","Walnut","Assorted spices"]),t.s)
-B.N6=new A.eO(7,"Honey Oats cookies","Pure golden honey meets hearty oats and crunchy nuts in this naturally sweetened masterpiece that's as nutritious as it is delicious.","assets/images/products/honey_oats_cookies.png",B.IU)
+B.N3=new A.eO(2,"Eliachi cookies","Fragrant cardamom-infused delights that melt in your mouth, bringing the warmth of traditional Indian spices to your cookie jar.","assets/images/products/eliachi_cookies.webp",B.Iu)
 B.Ih=A.b(s(["Butter","Aata","Dry Coconut","Jaggery","Salt"]),t.s)
-B.N7=new A.eO(3,"Coconut cookies","Tropical bliss in every bite, featuring the natural sweetness of dry coconut and jaggery for a guilt-free indulgence.","assets/images/products/coconut_cookies.png",B.Ih)
+B.N4=new A.eO(3,"Coconut cookies","Tropical bliss in every bite, featuring the natural sweetness of dry coconut and jaggery for a guilt-free indulgence.","assets/images/products/coconut_cookies.webp",B.Ih)
 B.If=A.b(s(["Butter","Ragi","Aata","Jaggery","Salt","Coco powder","Coffee powder","Vanilla extract","Choco chips"]),t.s)
-B.N8=new A.eO(5,"Ragi Chocochip cookies","Wholesome finger millet meets indulgent chocolate in this nutritious treat that doesn't compromise on taste or health benefits.","assets/images/products/ragi_chocochip_cookies.png",B.If)
+B.N5=new A.eO(5,"Ragi Chocochip cookies","Wholesome finger millet meets indulgent chocolate in this nutritious treat that doesn't compromise on taste or health benefits.","assets/images/products/ragi_chocochip_cookies.webp",B.If)
+B.Ik=A.b(s(["Butter","Aata","Jaggery","Salt","Coco powder","Coffee powder","Vanilla extract","Choco chips"]),t.s)
+B.N6=new A.eO(4,"Chocochip cookies","Rich, decadent chocolate heaven with real choco chips and a hint of coffee, crafted for true chocolate lovers who deserve the best.","assets/images/products/chocochip_cookies.webp",B.Ik)
+B.IU=A.b(s(["Butter","Oats flour","Whole Oats","Honey","Salt","Vanilla extract","Almonds","Cashew","Walnut","Assorted spices"]),t.s)
+B.N7=new A.eO(7,"Honey Oats cookies","Pure golden honey meets hearty oats and crunchy nuts in this naturally sweetened masterpiece that's as nutritious as it is delicious.","assets/images/products/honey_oats_cookies.webp",B.IU)
+B.Hr=A.b(s(["Butter","Aata","Jeera (Cumin)","Jaggery","Salt"]),t.s)
+B.N8=new A.eO(1,"Jeera cookies (sweet & salty)","A perfect balance of earthy cumin and sweet jaggery, creating a unique fusion that tantalizes your taste buds with every bite.","assets/images/products/jeera_cookies.webp",B.Hr)
 B.N9=new A.uA(null,null,null,null,null)
 B.Na=new A.B2(null,null,null,null,null,null)
 B.xO=new A.aC(1,1)
@@ -91987,7 +91987,7 @@ $.aDd=A.w(t.N,t.xd)
 $.aDt=A.w(t.C_,t.e)
 $.hJ="development"
 $.aLb=A.b([],A.ai("H<ui>"))
-$.aLc=A.b([B.N4,B.N5,B.N7,B.N3,B.N8,B.N2,B.N6],A.ai("H<eO>"))
+$.aLc=A.b([B.N8,B.N3,B.N4,B.N6,B.N5,B.N2,B.N7],A.ai("H<eO>"))
 $.auN=A.w(t.S,t.BN)
 $.aA0=null
 $.ayU=null

@@ -40630,7 +40630,7 @@ aeG(a){var s=0,r=A.D(t.H),q=1,p,o,n,m,l,k,j
 var $async$nb=A.E(function(b,c){if(b===1){p=c
 s=q}while(true)switch(s){case 0:q=3
 o=A.GX(B.Ij,a,B.ac,!1)
-n=A.dt("https://wa.me/918319881580?text="+A.j(o),0,null)
+n=A.dt("https://wa.me/918989849242?text="+A.j(o),0,null)
 s=9
 return A.G(A.HL(n),$async$nb)
 case 9:s=c?6:8
@@ -40639,7 +40639,7 @@ case 6:s=10
 return A.G(A.HQ(n,B.jE),$async$nb)
 case 10:s=7
 break
-case 8:m=A.dt("https://wa.me/918319881580",0,null)
+case 8:m=A.dt("https://wa.me/918989849242",0,null)
 s=14
 return A.G(A.HL(m),$async$nb)
 case 14:s=c?11:13
@@ -40961,7 +40961,7 @@ $S:0}
 A.xT.prototype={
 n4(){var s=0,r=A.D(t.H),q=1,p,o,n,m,l,k
 var $async$n4=A.E(function(a,b){if(a===1){p=b
-s=q}while(true)switch(s){case 0:l=A.dt("https://wa.me/+918319881580",0,null)
+s=q}while(true)switch(s){case 0:l=A.dt("https://wa.me/+918989849242",0,null)
 q=3
 s=9
 return A.G(A.HL(l),$async$n4)
@@ -40971,7 +40971,7 @@ case 6:s=10
 return A.G(A.HQ(l,B.jE),$async$n4)
 case 10:s=7
 break
-case 8:o=A.dt("tel:++918319881580",0,null)
+case 8:o=A.dt("tel:++918989849242",0,null)
 s=13
 return A.G(A.HL(o),$async$n4)
 case 13:s=b?11:12
@@ -41013,7 +41013,7 @@ p=c==null
 q=A.dc(A.b([q,B.f_,new A.hN(1,B.cj,A.aB("Bengaluru, Karnataka",m,m,m,p?m:c.bp(B.e5),m,m),m)],b),B.t,B.aM,B.w)
 o=A.du(8)
 n=A.kO(B.G_,j,m,20)
-return A.cp(m,new A.bD(new A.ah(h,g,h,g),A.bU(A.b([d,B.yT,f,B.cY,A.cp(m,A.bU(A.b([r,B.cX,q,B.bx,A.zJ(!1,o,!0,new A.bD(B.jm,A.dc(A.b([n,B.f_,A.aB("WhatsApp: +91 83198 81580",m,m,m,p?m:c.aiD(j,B.kV,B.L),m,m)],b),B.t,B.aM,B.aN),m),m,!0,m,m,m,m,m,m,m,m,m,this.gaa9(),m,m,m,m,m,m,m)],b),B.t,B.y,B.w),B.p,m,m,new A.bB(e,m,m,s,m,m,B.K),m,m,B.dj,m)],b),B.t,B.y,B.w),m),B.p,m,m,new A.bB(m,m,m,m,m,new A.u_(B.lz,B.ii,B.f4,i,m,m),B.K),m,m,m,1/0)}}
+return A.cp(m,new A.bD(new A.ah(h,g,h,g),A.bU(A.b([d,B.yT,f,B.cY,A.cp(m,A.bU(A.b([r,B.cX,q,B.bx,A.zJ(!1,o,!0,new A.bD(B.jm,A.dc(A.b([n,B.f_,A.aB("WhatsApp: +91 89898 49242",m,m,m,p?m:c.aiD(j,B.kV,B.L),m,m)],b),B.t,B.aM,B.aN),m),m,!0,m,m,m,m,m,m,m,m,m,this.gaa9(),m,m,m,m,m,m,m)],b),B.t,B.y,B.w),B.p,m,m,new A.bB(e,m,m,s,m,m,B.K),m,m,B.dj,m)],b),B.t,B.y,B.w),m),B.p,m,m,new A.bB(m,m,m,m,m,new A.u_(B.lz,B.ii,B.f4,i,m,m),B.K),m,m,m,1/0)}}
 A.rI.prototype={
 H(a){var s,r,q,p=this,o=null,n=p.c,m=n.c,l=m.c,k=n.d,j=A.du(8),i=A.xO(B.cf),h=A.du(8)
 n=n.b
